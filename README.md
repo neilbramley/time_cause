@@ -14,7 +14,15 @@ Online materials for project on the role of order and delays in causal inference
 [Experiment 4](https://neilrbramley.com/experiments/cati/cati/cati_7/cati_7.html)
 ([short version](https://neilrbramley.com/experiments/cati/cati/cati_7/cati_7_short.html))
 
-### Data and code
+### Source code
+
+[Here](https://github.com/neilbramley/time_cause/tree/master/experiments)
+
+### Data
+
+[Here](https://github.com/neilbramley/time_cause/tree/master/data)
+
+
 
 
 ## Authors
