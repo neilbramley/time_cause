@@ -16,11 +16,11 @@ Online materials for project on the role of order and delays in causal inference
 
 ### Source code
 
-[Here](https://github.com/neilbramley/time_cause/tree/master/experiments)
+[here](https://github.com/neilbramley/time_cause/tree/master/experiments)
 
 ### Data
 
-[Here](https://github.com/neilbramley/time_cause/tree/master/data)
+[here](https://github.com/neilbramley/time_cause/tree/master/data)
 
 
 
