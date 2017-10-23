@@ -1,10 +1,10 @@
-# time_cause
+# The role of time in causal structure learning
 
 Online materials for project on the role of order and delays in causal inference conducted at UCL, NYU and MIT.
 
 ### Experiments
 
-[Experiment 1](https://neilrbramley.com/experiments/neil/cati/cati_2.html)
+[Experiment 1](https://neilrbramley.com/experiments/cati/cati_2.html)
 
 [Experiment 2](https://neilrbramley.com/experiments/cati/cati_5.html)
 
